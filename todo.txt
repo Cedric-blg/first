@@ -1,0 +1,15 @@
+- Civilité (SELECT)
+- Nom
+- Prénom
+- Date de naissance
+- Sexe (bouton radio)
+- Centres d'intérêts (Checkbox)
+- Submit
+
+Se renseigner sur Fieldset et Legend
+
+Media queries
+Figma (mobile first)
+Git -> créer un compte sur github
+keyframe
+
